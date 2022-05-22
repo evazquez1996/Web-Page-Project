@@ -1,5 +1,17 @@
-/* 
+body {
+    background-color: #212529;
+    /* maybe adding margin ? */
+    /* margin: 125px 275px; */
+}
 
-Hi , make me look pretty!
+.text {
+    color: white;
+}
 
-*/
+h1 {
+    color: white;
+}
+
+.vpn-list {
+    color: white;
+}

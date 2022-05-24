@@ -36,17 +36,17 @@ h2 {
 
 a[href*="website"] {
 
-    color: rgb(173,216,230);
+    color: rgb(255,199,160);
 }
 
 a[href*="1Password"] {
 
-    color: rgb(173,216,230);
+    color: rgb(255,199,160);
 }
 
 a[href*="LastPass"] {
 
-    color: rgb(173,216,230);
+    color: rgb(255,199,160);
 }
 
 #possible-ways {
